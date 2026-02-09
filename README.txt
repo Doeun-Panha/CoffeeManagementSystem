@@ -41,7 +41,7 @@ PREREQUISITES
 
 STEPS
 1. Clone the Repository:
-   git clone [repository-url]
+   git clone https://github.com/Doeun-Panha/CoffeeManagementSystem.git
 
 2. Database Configuration:
    - Open App.config.
